@@ -1,7 +1,7 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
+        text: "Happy birthday, my love. Today is all about celebrating you and the beautiful person you are. You’ve brought so much happiness into my life in ways I can’t even fully explain. And honestly, that’s why I wanted to do something a little special for you…", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
