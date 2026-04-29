@@ -6,17 +6,17 @@
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "So I made this just for you. It may be simple, but every part of it comes from how much you mean to me. You deserve something that reminds you how loved and appreciated you are. Because being with you has been one of the best things in my life… ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "You’ve given me so many moments I’ll never forget. Your kindness, your smile, and the way you care about me means everything. I find myself appreciating you more and more every day. And that’s why today isn’t just your birthday to me…", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: "It’s a celebration of having you in my life. I’m grateful for every laugh, every conversation, and every memory we share. I hope this makes you smile the way you always make me smile. Happy birthday again, my love.", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
